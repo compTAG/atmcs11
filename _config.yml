@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+
+title: "ATMCS11"
+description: The 11th Conference in the ATMCS Series
+
+github:
+  is_project_page: true
