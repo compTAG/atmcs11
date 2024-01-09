@@ -13,8 +13,8 @@ A call for participation will be posted shortly. Stay tuned.
 
 ## Scientific Committee
 
-- [Basitan Rieck](https://bastian.rieck.me/) (committee chair), Helmholtz Munich 
-- more members to be announced shortly!
+- [Bastian Rieck](https://bastian.rieck.me/) (committee chair), Helmholtz Munich 
+- **more members to be announced shortly!**
 
 ## Organizers
 
