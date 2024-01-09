@@ -1,21 +1,21 @@
 # Schedule
 
-## Monday, 15 July
+## Monday
 
 TBD
 
-## Tuesday, 16 July
+## Tuesday
 
 TBD
 
-## Wednesday, 17 July
+## Wednesday
 
 Excursion Day!
 
-## Thursday, 18 July
+## Thursday
 
 TBD
 
-## Friday, 19 July
+## Friday
 
 TBD
