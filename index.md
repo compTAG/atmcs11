@@ -1,3 +1,3 @@
 The 11th confernece in the [ATMCS series](https://atmcs.appliedtopology.org/)
-will be held 15-19 July 2024 at Montana State University in Bozeman, MT, USA.  We look forward
+will be held in Summer 2025 at Montana State University in Bozeman, MT, USA. More details will be posted here shortly.  We look forward
 to seeing you here!
