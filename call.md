@@ -8,7 +8,7 @@ A call for participation will be posted shortly. Stay tuned.
 | Notifications                         | TBD            |
 | Camera-ready version 	                | TBD             |
 | Registration                          | TBD             |
-| Conference 	                        | 15-19 July 2021  |
+| Conference 	                        | Summer 2025  |
 |---------------------------------------|---------------------------------------|
 
 ## Scientific Committee
