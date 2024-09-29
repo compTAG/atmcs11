@@ -18,6 +18,5 @@ A call for participation will be posted shortly. Stay tuned.
 
 ## Organizers
 
-- [Brittany Terese Fasy](https://www.cs.montana.edu/brittany/), Montana State University
+- [Brittany Terese Fasy](https://www.cs.montana.edu/brittany/) (chair, local organizer), Montana State University
 - [Facundo Mémoli](https://facundo-memoli.org/), The Ohio State University
-- [Binhai Zhu](https://www.cs.montana.edu/bhz/), Montana State University
