@@ -11,7 +11,7 @@ Format: Each extended abstract must not exceed three (3) pages in length in any
 reasonale LaTex format.  References and appendices do not count towards the page
 limit.  A shorter abstract for the extended abstract is required and must end by
 naming the presenting author.  
-A [sample tex](https://comptag.github.io/atmcs11/assets/atmcs-tex.zip)
+A [sample tex](https://comptag.github.io/atmcs11/assets/atmcs11-tex.zip)
 file using the amsart format is provided for your convenience. 
 
 The extended abstracts of the accepted talks and posters will be available on
