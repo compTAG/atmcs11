@@ -1,3 +1,3 @@
 # Registration 
 
-Details for registration will be available in Fall 2024.
+Details for registration are coming soon.
