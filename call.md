@@ -5,7 +5,7 @@ different disciplinary areas.
 
 ATMCS11 invites submissions for contributed talks and posters.  The submission
 is made as an extended abstracts through OpenReview:
-[[TODO: add link]]
+[Link to OpenReview](ttps://openreview.net/group?id=appliedtopology.org/ATMCS/2025/Conference)
 
 Format: Each extended abstract must not exceed three (3) pages in length in any
 reasonale LaTex format.  References and appendices do not count towards the page
