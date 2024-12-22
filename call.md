@@ -8,9 +8,9 @@ is made as an extended abstracts through OpenReview:
 [Link to OpenReview](ttps://openreview.net/group?id=appliedtopology.org/ATMCS/2025/Conference)
 
 Format: Each extended abstract must not exceed three (3) pages in length in any
-reasonale LaTex format.  References and appendices do not count towards the page
-limit.  A shorter abstract for the extended abstract is required and must end by
-naming the presenting author.  
+reasonale LaTex format.  The title page, references, and appendices do not count
+towards the page limit.  A shorter abstract for the extended abstract is required.
+Submissions should be anonymous for a double-blind review process.
 A [sample tex](https://comptag.github.io/atmcs11/assets/atmcs11-tex.zip)
 file using the amsart format is provided for your convenience. 
 
@@ -27,8 +27,6 @@ For posters, submission of material that is to be submitted to (or to appear in)
 a refereed conference (e.g., SoCG'2025) or journal is allowed and encouraged;
 please indicate clearly with the submission if the work has already been
 presented/accepted elsewhere.
-
-
 
 ## Important Dates
 
