@@ -42,8 +42,3 @@ presented/accepted elsewhere.
 
 - [Bastian Rieck](https://bastian.rieck.me/) (committee chair), Helmholtz Munich 
 - **more members to be announced shortly!**
-
-## Organizers
-
-- [Brittany Terese Fasy](https://www.cs.montana.edu/brittany/) (chair, local organizer), Montana State University
-- [Facundo Mémoli](https://facundo-memoli.org/), The Ohio State University
