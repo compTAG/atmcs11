@@ -32,9 +32,9 @@ presented/accepted elsewhere.
 
 | Action                                | Date
 |---------------------------------------|---------------------------------------|
-| Submission	                        | Friday, 24 January 2025               |
-| Notifications                         | Friday, 28 February 2025              |
-| Camera-ready version 	                | Friday, 28 March 2025                 |
+| Submission	                        | Friday, 28 February 2025              |
+| Notifications                         | Friday, 4 April 2025                  |
+| Camera-ready version 	                | Monday, 28 April 2025                 |
 | Conference 	                        | 21-25 July 2025                       |
 |---------------------------------------|---------------------------------------|
 
