@@ -41,7 +41,6 @@ presented/accepted elsewhere.
 ## Scientific Committee
 
 - [Bastian Rieck](https://bastian.rieck.me/) (committee chair), Helmholtz Munich 
-
 * [Atish Mitra](https://www.mtech.edu/mathematical-sciences/faculty/atish-mitra/index.html), Montana Technological University
 * [Benjamin Burton](https://smp.uq.edu.au/profile/225/benjamin-burton), The University of Queensland
 * [Claudia Landi](https://personale.unimore.it/rubrica/dettaglio/clandi), Università di Modena e Reggio Emilia
