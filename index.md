@@ -11,7 +11,7 @@ to seeing you here!
 * [Hideto Asashiba](https://wwp.shizuoka.ac.jp/asashiba/hideto-asashibas-website/) Shizuoka University
 * [Melanie Weber](http://melanie-weber.com/), Harvard University
 * [Moon Duchin](https://www.pdx.edu/faculty-experts/expert/steven-bleiler), https://mggg.org/people/mduchin/
-* [Rocio Gonzales Diaz](https://personal.us.es/rogodi/personal.html), Universidad de Sevilla
+* [Rocio Gonzalez-Diaz](https://personal.us.es/rogodi/personal.html), Universidad de Sevilla
 * [Steven Bleiler](https://www.pdx.edu/faculty-experts/expert/steven-bleiler), Portland State University
 * [Tom Needham](https://sites.google.com/site/tneedhammath), Florida State University
 * [Ulrike Tillman](https://people.maths.ox.ac.uk/tillmann/), University of Oxford
