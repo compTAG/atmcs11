@@ -22,5 +22,5 @@ to seeing you here!
 ## Organizers
 
 - [Brittany Terese Fasy](https://www.cs.montana.edu/brittany/) (chair, local organizer), Montana State University
-- [Facundo Mémoli](https://facundo-memoli.org/), The Ohio State University
+- [Facundo Mémoli](https://facundo-memoli.org/), Rutgers University
 - [Bastian Rieck](https://bastian.rieck.me/) (scientific committee chair), Helmholtz Munich 
