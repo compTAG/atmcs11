@@ -8,7 +8,7 @@ is made as an extended abstracts through OpenReview:
 [Link to OpenReview](https://openreview.net/group?id=appliedtopology.org/ATMCS/2025/Conference)
 
 Format: Each extended abstract must not exceed three (3) pages in length in any
-reasonale LaTex format.  The title page, references, and appendices do not count
+reasonable LaTex format.  The title page, references, and appendices do not count
 towards the page limit.  A shorter abstract for the extended abstract is required.
 Submissions should be anonymous for a double-blind review process.
 A [sample tex](https://comptag.github.io/atmcs11/assets/atmcs11-tex.zip)
