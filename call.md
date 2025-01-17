@@ -50,7 +50,7 @@ presented/accepted elsewhere.
 * [Emmerson Escolar](https://emerson-escolar.github.io/research.html), Kobe University
 * Jesus Gonzalez, Instituto Politécnico Nacional
 * [Lori Ziegelmeier](https://www.loriziegelmeier.com/),  Macalester College
-* [Matthieu Carrière](https://www-sop.inria.fr/members/Mathieu.Carriere/cv/CV_research.pdf), Inria d’Universit´e Cˆote d’Azur
+* [Matthieu Carrière](https://www-sop.inria.fr/members/Mathieu.Carriere/cv/CV_research.pdf), Inria d’Universit´e Côte d’Azur
 * [Mustafa Hajij](https://www.mustafahajij.com/), University of San Francisco
 * [Nina Otter](https://www.ninaotter.com/mathematics/research), Inria Saclay
 * [Robyn Brooks](https://sites.google.com/view/robynkayebrooks/home), Utah State University
