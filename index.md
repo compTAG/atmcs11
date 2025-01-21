@@ -7,10 +7,10 @@ to seeing you here!
 * [Amit Patel](https://akpatel79.github.io/), Colorado State University
 * [Anibal M. Garcia-Mardones](www.Medina-Mardones.com), Western University Canada
 * [Carola Wenk](https://www.cs.tulane.edu/~carola/), Tulane University
-* [Frank Staals](https://fstaals.net/), f.staals@uu.nl
+* [Frank Staals](https://fstaals.net/), Utrecht University
 * [Hideto Asashiba](https://wwp.shizuoka.ac.jp/asashiba/hideto-asashibas-website/) Shizuoka University
 * [Melanie Weber](http://melanie-weber.com/), Harvard University
-* [Moon Duchin](https://www.pdx.edu/faculty-experts/expert/steven-bleiler), https://mggg.org/people/mduchin/
+* [Moon Duchin](https://www.pdx.edu/faculty-experts/expert/steven-bleiler), Tufts University
 * [Rocio Gonzalez-Diaz](https://personal.us.es/rogodi/personal.html), Universidad de Sevilla
 * [Steven Bleiler](https://www.pdx.edu/faculty-experts/expert/steven-bleiler), Portland State University
 * [Tom Needham](https://sites.google.com/site/tneedhammath), Florida State University
