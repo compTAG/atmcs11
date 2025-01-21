@@ -46,7 +46,7 @@ presented/accepted elsewhere.
 * [Claudia Landi](https://personale.unimore.it/rubrica/dettaglio/clandi), Università di Modena e Reggio Emilia
 * [Dhananjay Bhaskar](https://medicine.yale.edu/profile/dhananjay-bhaskar/), Yale University
 * [Emilie Purvine](https://www.pnnl.gov/people/emilie-purvine), Pacific Northwest National Laboratory
-* [Emmerson Escolar](https://emerson-escolar.github.io/research.html), Kobe University
+* [Emerson Escolar](https://emerson-escolar.github.io/index.html), Kobe University
 * Jesus Gonzalez, Instituto Politécnico Nacional
 * [Lori Ziegelmeier](https://www.loriziegelmeier.com/),  Macalester College
 * [Matthieu Carrière](https://www-sop.inria.fr/members/Mathieu.Carriere/cv/CV_research.pdf), Inria d’Universit´e Côte d’Azur
