@@ -52,6 +52,7 @@ presented/accepted elsewhere.
 * [Matthieu Carrière](https://www-sop.inria.fr/members/Mathieu.Carriere/cv/CV_research.pdf), Inria d’Universit´e Côte d’Azur
 * [Mustafa Hajij](https://www.mustafahajij.com/), University of San Francisco
 * [Nina Otter](https://www.ninaotter.com/mathematics/research), Inria Saclay
+* [Paweł Dłotko](https://dioscuri-tda.org/), Polish Academy of Sciences
 * [Robyn Brooks](https://sites.google.com/view/robynkayebrooks/home), University of Utah
 * [Théo Lacombe](https://tlacombe.github.io/), Université Gustave Eiffel
 * [Vidit Nanda](https://people.maths.ox.ac.uk/nanda/), University of Oxford
