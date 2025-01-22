@@ -40,9 +40,10 @@ presented/accepted elsewhere.
 
 ## Scientific Committee
 
-- [Bastian Rieck](https://bastian.rieck.me/) (committee chair), Helmholtz Munich 
+* [Bastian Rieck](https://bastian.rieck.me/) (committee chair), University of Fribourg
 * [Atish Mitra](https://www.mtech.edu/mathematical-sciences/faculty/atish-mitra/index.html), Montana Technological University
 * [Benjamin Burton](https://smp.uq.edu.au/profile/225/benjamin-burton), The University of Queensland
+* [Erin Chambers](https://wolfchambers.github.io/), University of Notre Dame
 * [Claudia Landi](https://personale.unimore.it/rubrica/dettaglio/clandi), Università di Modena e Reggio Emilia
 * [Dhananjay Bhaskar](https://medicine.yale.edu/profile/dhananjay-bhaskar/), Yale University
 * [Emilie Purvine](https://www.pnnl.gov/people/emilie-purvine), Pacific Northwest National Laboratory
