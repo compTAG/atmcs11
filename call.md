@@ -55,6 +55,7 @@ presented/accepted elsewhere.
 * [Nina Otter](https://www.ninaotter.com/mathematics/research), Inria Saclay
 * [Paweł Dłotko](https://dioscuri-tda.org/), Polish Academy of Sciences
 * [Robyn Brooks](https://sites.google.com/view/robynkayebrooks/home), University of Utah
+* [Roland Kwitt](https://rkwitt.github.io/), University of Salzburg
 * [Théo Lacombe](https://tlacombe.github.io/), Université Gustave Eiffel
 * [Vidit Nanda](https://people.maths.ox.ac.uk/nanda/), University of Oxford
 * [Woojin Kim](https://wj-kim.com/), KAIST

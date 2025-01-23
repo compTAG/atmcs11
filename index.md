@@ -8,7 +8,7 @@ to seeing you here!
 * [Anibal M. Garcia-Mardones](https://www.Medina-Mardones.com), Western University Canada
 * [Carola Wenk](https://www.cs.tulane.edu/~carola/), Tulane University
 * [Frank Staals](https://fstaals.net/), Utrecht University
-* [Hideto Asashiba](https://wwp.shizuoka.ac.jp/asashiba/hideto-asashibas-website/) Shizuoka University
+* [Hideto Asashiba](https://researchmap.jp/asashiba), Shizuoka University
 * [Melanie Weber](http://melanie-weber.com/), Harvard University
 * [Moon Duchin](https://mggg.org/people/mduchin/), Tufts University
 * [Rocio Gonzalez-Diaz](https://personal.us.es/rogodi/personal.html), Universidad de Sevilla
