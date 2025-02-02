@@ -27,7 +27,8 @@ acceptable.
 For posters, submission of material that is to be submitted to (or to appear in)
 a refereed conference (e.g., SoCG'2025) or journal is allowed and encouraged;
 please indicate clearly with the submission if the work has already been
-presented/accepted elsewhere.
+presented/accepted elsewhere. Submissions for oral presentations are expected to
+be new research, not yet submitted to another conference or journal.
 
 ## Important Dates
 
