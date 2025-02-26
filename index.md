@@ -1,4 +1,4 @@
-The 11th confernece in the [Algebraic Topology: Methods, Computation, & Science (ATMCS) series](https://atmcs.appliedtopology.org/)
+The 11th conference in the [Algebraic Topology: Methods, Computation, & Science (ATMCS) series](https://atmcs.appliedtopology.org/)
 will be held *21-25 July 2025* at Montana State University in Bozeman, MT, USA.  We look forward
 to seeing you here!
 
