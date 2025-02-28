@@ -1,6 +1,7 @@
 # Registration 
 
-Details for registration will be posted here. 
+Details for registration will be posted here.  All attendees are expected 
+to adhere to the [code of conduct](https://comptag.github.io/atmcs11/code.html).
 
 ## Hotels
 

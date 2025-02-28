@@ -30,13 +30,15 @@ please indicate clearly with the submission if the work has already been
 presented/accepted elsewhere. Submissions for oral presentations are expected to
 be new research, not yet submitted to another conference or journal.
 
+All authors and reviewers are expected to adhere to the [code of conduct](https://comptag.github.io/atmcs11/code.html).
+
 ## Important Dates
 
 | Action                                | Date
 |---------------------------------------|---------------------------------------|
 | Submission	                        | ~~Friday, 28 February 2025~~ Saturday, 15 March 2025              |
-| Notifications                         | Friday, 4 April 2025                  |
-| Camera-ready version 	                | Monday, 28 April 2025                 |
+| Notifications                         | ~~Friday, 4 April 2025~~                  |
+| Camera-ready version 	                | ~~Monday, 28 April 2025~~                 |
 | Conference 	                        | 21-25 July 2025                       |
 |---------------------------------------|---------------------------------------|
 
