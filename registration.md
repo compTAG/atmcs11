@@ -1,10 +1,11 @@
 # Registration 
 
-Details for registration are coming soon.
+Details for registration will be posted here. 
 
 ## Hotels
 
-Bozeman
+We have a couple hotels, plus dorm accomodations, as options. Stay tuned for an
+update shortly!
 
 ## Childcare
 
