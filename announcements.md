@@ -1,18 +1,18 @@
 # Announcements
 
-## Hiring
+##  Website Updates
 
-### Faculty Positions
+### 27 February 2024
 
-* If you have any positions you want advertised, please email us!
+* Submission deadline extended to 15 March 2025.
+* [Code of conduct](https://comptag.github.io/atmcs11/code.html) posted to the website.
+* Added a list of summer camps to the
+  [registration](https://comptag.github.io/atmcs11/registration.html) page for
+  those traveling with kids.
 
-### Postdocs
+### 20 January 2025
 
-* If you have any positions you want advertised, please email us!
-
-### PhD Students Wanted
-
-* If you have any positions you want advertised, please email us!
+* [Call for participation](https://comptag.github.io/atmcs11/call.html) posted!
 
 ## Other
 
