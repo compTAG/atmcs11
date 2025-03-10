@@ -52,7 +52,7 @@ All authors and reviewers are expected to adhere to the [code of conduct](https:
 * [Dhananjay Bhaskar](https://medicine.yale.edu/profile/dhananjay-bhaskar/), Yale University
 * [Emilie Purvine](https://www.pnnl.gov/people/emilie-purvine), Pacific Northwest National Laboratory
 * [Emerson Escolar](https://emerson-escolar.github.io/index.html), Kobe University
-* Jesus Gonzalez, Instituto Politécnico Nacional
+* Jesus Gonzalez, Cinvestav del IPN
 * [Lori Ziegelmeier](https://www.loriziegelmeier.com/),  Macalester College
 * [Matthieu Carrière](https://www-sop.inria.fr/members/Mathieu.Carriere/cv/CV_research.pdf), Inria d’Universit´e Côte d’Azur
 * [Mustafa Hajij](https://www.mustafahajij.com/), University of San Francisco
