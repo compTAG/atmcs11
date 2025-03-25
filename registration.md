@@ -27,8 +27,13 @@ season, so book early!
   [Book
   here](https://www.marriott.com/event-reservations/reservation-link.mi?id=1742489548129&key=GRP&guestreslink2=true&app=resvlink)
   by 5 June 2025.
-* MSU Dorm Rooms: This option can be selected in the registration process. The
-  rooms are single or double occupancy, for $55/night.
+* [Days
+  Inn](https://www.wyndhamhotels.com/days-inn/bozeman-montana/days-inn-and-suites-bozeman/overview):
+  located on north 7th street, this is 2.2 miles from the conference location
+  (on the Blueline free Bozeman Streamline bus). Call to book, and use code
+  MSUL20 for 20% off. Code is available until rooms book up.
+* MSU Dorm Rooms: The rooms are single or double occupancy, for $55/night.
+  Registration link will be posted shortly.
 * Go camping! Many campsites are available just a short drive away! They book up fast though!
 
 ## Childcare
