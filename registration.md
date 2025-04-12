@@ -6,12 +6,9 @@ to adhere to the [code of conduct](https://comptag.github.io/atmcs11/code.html).
 
 ## Travel Grants and Volunteer Discounts
 
-Students and junior researchers are encouraged to apply for a travel grant to
-support the cost of attendence at ATMCS.  More details will be coming soon.
-
-We will also need some volunteers to help with various conference logistics
-(registration booth, excursion day, etc.). Volunteer application will be posted
-soon!
+Students and junior researchers are encouraged to
+[apply for a travel grants and volunteer opportunities](https://montana.qualtrics.com/jfe/form/SV_cYoFU8mvixEMVb8)
+to support the cost of attendence at ATMCS. Applications are due 10 May 2025. 
 
 ## Registration
 
