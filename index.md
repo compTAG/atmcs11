@@ -14,7 +14,6 @@ to seeing you here!
 * [Rocio Gonzalez-Diaz](https://personal.us.es/rogodi/personal.html), Universidad de Sevilla
 * [Steven Bleiler](https://www.pdx.edu/faculty-experts/expert/steven-bleiler), Portland State University
 * [Tom Needham](https://sites.google.com/site/tneedhammath), Florida State University
-* [Ulrike Tillman](https://people.maths.ox.ac.uk/tillmann/), University of Oxford
 * [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University
 * [Yusu Wang](http://yusu.belkin-wang.org/), University of California, San Diego
 
