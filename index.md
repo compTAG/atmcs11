@@ -5,7 +5,6 @@ to seeing you here!
 ## Invited Speakers
 
 * [Amit Patel](https://akpatel79.github.io/), Colorado State University
-* [Anibal M. Garcia-Mardones](https://www.Medina-Mardones.com), Western University Canada
 * [Carola Wenk](https://www.cs.tulane.edu/~carola/), Tulane University
 * [Frank Staals](https://fstaals.net/), Utrecht University
 * [Hideto Asashiba](https://researchmap.jp/asashiba), Shizuoka University
