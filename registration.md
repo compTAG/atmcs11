@@ -12,7 +12,21 @@ to support the cost of attendence at ATMCS. Applications are due 10 May 2025.
 
 ## Registration
 
+In order to help us plan the best experience for all participants, please
+register early!
+
+* Early Registration: $300, through 11 June 2025 11:59 local time (MTD)
+* Late Registration: $400, through 12 June 2025 11:59 local time (MTD)
+* On-site Registration: $500 
+
+To register:
+
+1. First, pay the registration fee
+   [here](https://na.eventscloud.com/ereg/index.php?eventid=840377&)
+2. Then, complete the registration form (link to be posted soon).
+
 Details for registration will be posted here shortly.
+
 
 ## Hotels
 
@@ -30,7 +44,10 @@ season, so book early!
   (on the Blueline free Bozeman Streamline bus). Call to book, and use code
   MSUL20 for 20% off. Code is available until rooms book up.
 * MSU Dorm Rooms: The rooms are single or double occupancy, for $55/night.
-  Registration link will be posted shortly.
+  Register through the [summer housing registration portal](https://montana.starrezhousing.com/StarRezPortalXConference/8CD102B8/23/387/Home-Home?UrlToken=88329624), using code ATM25.
+  For help registering, see [instructions here](https://www.montana.edu/cs/registration.html),
+  and [general housing information here](https://www.montana.edu/cs/general_information.html).
+
 * Go camping! Many campsites are available just a short drive away! They book up fast though!
 
 ## Childcare
