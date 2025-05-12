@@ -16,7 +16,7 @@ In order to help us plan the best experience for all participants, please
 register early!
 
 * Early Registration: $300, through 11 June 2025 11:59 local time (MTD)
-* Late Registration: $400, through 12 June 2025 11:59 local time (MTD)
+* Late Registration: $400, through 12 July 2025 11:59 local time (MTD)
 * On-site Registration: $500 
 
 To register:
