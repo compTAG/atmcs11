@@ -23,7 +23,7 @@ To register:
 
 1. First, pay the registration fee
    [here](https://na.eventscloud.com/ereg/index.php?eventid=840377&)
-2. Then, complete the registration form (link to be posted soon).
+2. Then, complete the [registration form](https://montana.qualtrics.com/jfe/form/SV_bNIUD6RsaCzs7Xg).
 
 
 ## Hotels
