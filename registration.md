@@ -25,8 +25,6 @@ To register:
    [here](https://na.eventscloud.com/ereg/index.php?eventid=840377&)
 2. Then, complete the registration form (link to be posted soon).
 
-Details for registration will be posted here shortly.
-
 
 ## Hotels
 
