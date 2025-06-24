@@ -50,7 +50,7 @@ Excursion Day!
 
 12:20-13:45 LUNCH
 
-13:45-14:45 Invited Talk 9 -- Frank Staal
+13:45-14:45 Invited Talk 9 -- Frank Staals
 
 14:45-15:15 BREAK (snacks)
 
