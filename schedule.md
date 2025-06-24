@@ -52,7 +52,7 @@ Excursion Day!
 
 13:45-14:45 Invited Talk 9 -- Frank Staal
 
-14:45-15:15 BREAK
+14:45-15:15 BREAK (snacks)
 
 15:15-16:35 3 Contributed Talks TBD
 
