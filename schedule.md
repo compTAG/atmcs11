@@ -4,7 +4,7 @@
 
 08:30-09:30 Invited Talk 1 -- Yusu Wang
 
-09:30-10:30 Invited Talk 2 -- Carola Wenk
+09:30-10:30 Invited Talk 2 -- Melanie Weber
 
 10:30-11:00 COFFEE BREAK
 
@@ -58,7 +58,7 @@ Excursion Day!
 
 ## Friday
 
-08:30-09:30 Invited Talk 10 -- Melanie Weber
+08:30-09:30 Invited Talk 10 -- Carola Wenk
 
 09:30-10:30 Invited Talk 11 -- Vanessa Robins
 
