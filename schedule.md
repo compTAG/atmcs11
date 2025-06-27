@@ -32,7 +32,7 @@
 
 13:45-14:45 Invited Talk 6 -- Tom Needham
 
-14:45-17:00 Poster Reception
+15:00-17:00 Poster Reception
 
 ## Wednesday
 
