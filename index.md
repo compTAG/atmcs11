@@ -9,7 +9,6 @@ to seeing you here!
 * [Frank Staals](https://fstaals.net/), Utrecht University
 * [Hideto Asashiba](https://researchmap.jp/asashiba), Shizuoka University
 * [Melanie Weber](http://melanie-weber.com/), Harvard University
-* [Moon Duchin](https://mggg.org/people/mduchin/), Tufts University
 * [Rocio Gonzalez-Diaz](https://personal.us.es/rogodi/personal.html), Universidad de Sevilla
 * [Steven Bleiler](https://www.pdx.edu/faculty-experts/expert/steven-bleiler), Portland State University
 * [Tom Needham](https://sites.google.com/site/tneedhammath), Florida State University
