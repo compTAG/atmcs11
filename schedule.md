@@ -48,7 +48,7 @@ Excursion Day!
 
 12:20-13:45 LUNCH
 
-13:45-14:45 Invited Talk 9 -- Frank Staals (Chair: Ziga Virk)
+13:45-14:45 Invited Talk 8 -- Frank Staals (Chair: Ziga Virk)
 
 14:45-15:15 BREAK (snacks)
 
@@ -56,9 +56,9 @@ Excursion Day!
 
 ## Friday
 
-08:30-09:30 Invited Talk 10 -- Carola Wenk (Chair: Rocio Gonzalez-Diaz)
+08:30-09:30 Invited Talk 9 -- Carola Wenk (Chair: Rocio Gonzalez-Diaz)
 
-09:30-10:30 Invited Talk 11 -- Vanessa Robins (Chair: Rocio Gonzalez-Diaz)
+09:30-10:30 Invited Talk 10 -- Vanessa Robins (Chair: Rocio Gonzalez-Diaz)
 
 10:30-11:00 COFFEE BREAK
 
