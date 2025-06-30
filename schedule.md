@@ -8,7 +8,7 @@
 
 10:30-11:00 COFFEE BREAK
 
-11:00-12:20 Contributed Talks TBD
+11:00-12:20 Contributed Talks (Chair: Tom Needham) 
 
 12:20-13:45 LUNCH
 
@@ -26,7 +26,7 @@
 
 10:30-11:00 COFFEE BREAK
 
-11:00-12:20 Contributed Talks TBD
+11:00-12:20 Contributed Talks (Chair: Rocio Gonzalez-Diaz) 
 
 12:20-13:45 LUNCH
 
@@ -44,7 +44,7 @@ Excursion Day!
 
 10:30-11:00 COFFEE BREAK
 
-11:00-12:20 Contributed Talks TBD
+11:00-12:20 Contributed Talks (Chair: Vanessa Robins)
 
 12:20-13:45 LUNCH
 
@@ -52,7 +52,7 @@ Excursion Day!
 
 14:45-15:15 BREAK (snacks)
 
-15:15-16:35 Contributed Talks TBD
+15:15-16:35 Contributed Talks (Chair: Erin Wolf Chambers)
 
 ## Friday
 
@@ -62,7 +62,7 @@ Excursion Day!
 
 10:30-11:00 COFFEE BREAK
 
-11:00-12:20 Contributed Talks TBD
+11:00-12:20 Contributed Talks (Chair: Atish Mitra) 
 
 12:20-13:45 LUNCH
 
