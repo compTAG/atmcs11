@@ -20,7 +20,7 @@
 
 ## Tuesday
 
-08:30-09:30 Invited Talk 4 -- Moon Duchin
+08:30-09:30 Invited Talk 4 -- Rocio Gonzalez-Diaz
 
 09:30-10:30 Invited Talk 5 -- Hideto Asashiba
 
@@ -42,7 +42,7 @@ Excursion Day!
 
 08:30-09:30 Invited Talk 7 -- Steven Bleiler
 
-09:30-10:30 Invited Talk 8 -- Rocio Gonzalez-Diaz
+09:30-10:30 Invited Talk 8 -- (no talk)
 
 10:30-11:00 COFFEE BREAK
 
