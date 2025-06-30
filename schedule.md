@@ -16,7 +16,7 @@
 
 14:45-17:00 BREAK (snacks)
 
-17:00 Welcome Reception at AC Hotel (tentative)
+17:00 Welcome Reception at AC Hotel
 
 ## Tuesday
 
