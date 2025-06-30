@@ -26,11 +26,11 @@
 
 10:30-11:00 COFFEE BREAK
 
-11:00-12:20 Contributed Talks (Chair: Rocio Gonzalez-Diaz) 
+11:00-12:20 Contributed Talks (Chair: Yusu Wang) 
 
 12:20-13:45 LUNCH
 
-13:45-14:45 Invited Talk 6 -- Tom Needham (Chair: Frank Staals)
+13:45-14:45 Invited Talk 6 -- Tom Needham (Chair: Melanie Weber)
 
 15:00-17:00 Poster Reception
 
@@ -40,11 +40,11 @@ Excursion Day!
 
 ## Thursday
 
-09:30-10:30 Invited Talk 7 -- Steven Bleiler (Chair: Carola Wenk)
+09:30-10:30 Invited Talk 7 -- Steven Bleiler (Chair: Frank Staals)
 
 10:30-11:00 COFFEE BREAK
 
-11:00-12:20 Contributed Talks (Chair: Vanessa Robins)
+11:00-12:20 Contributed Talks (Chair: Carola Wenk)
 
 12:20-13:45 LUNCH
 
