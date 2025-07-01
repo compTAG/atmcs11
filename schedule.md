@@ -1,5 +1,8 @@
 # Schedule
 
+For the full schedule, see the [schedule and
+abstracts booklet](https://comptag.github.io/atmcs11/assets/schedule.pdf).
+
 ## Monday
 
 08:30-09:30 Invited Talk 1 -- Yusu Wang (Chair: Vanessa Robins)
