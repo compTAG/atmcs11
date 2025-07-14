@@ -1,6 +1,6 @@
 # Schedule
 
-All sessions, unless otherwise noted, are in [Norm Asbjornson Hall]https://maps.app.goo.gl/mFmeQtc3cXuQbc8Z8).
+All sessions, unless otherwise noted, are in Inspiration Hall in [Norm Asbjornson Hall]https://maps.app.goo.gl/mFmeQtc3cXuQbc8Z8).
 
 For the full schedule, see the [schedule and
 abstracts booklet](https://comptag.github.io/atmcs11/assets/schedule.pdf).
