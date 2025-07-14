@@ -1,5 +1,7 @@
 # Schedule
 
+All sessions, unless otherwise noted, are in [Norm Asbjornson Hall]https://maps.app.goo.gl/mFmeQtc3cXuQbc8Z8).
+
 For the full schedule, see the [schedule and
 abstracts booklet](https://comptag.github.io/atmcs11/assets/schedule.pdf).
 
@@ -13,13 +15,13 @@ abstracts booklet](https://comptag.github.io/atmcs11/assets/schedule.pdf).
 
 11:00-12:20 Contributed Talks (Chair: Tom Needham) 
 
-12:20-13:45 LUNCH
+12:20-13:45 LUNCH (Rendezvous Dining Pavilion)
 
 13:45-14:45 Invited Talk 3 -- Amit Patel (Chair: Hideto Asashiba)
 
 14:45-17:00 BREAK (snacks)
 
-17:00 Welcome Reception at AC Hotel
+18:30-22:00 Welcome Reception at AC Hotel
 
 ## Tuesday
 
@@ -31,7 +33,7 @@ abstracts booklet](https://comptag.github.io/atmcs11/assets/schedule.pdf).
 
 11:00-12:20 Contributed Talks (Chair: Yusu Wang) 
 
-12:20-13:45 LUNCH
+12:20-13:45 LUNCH (Rendezvous Dining Pavilion)
 
 13:45-14:45 Invited Talk 6 -- Tom Needham (Chair: Melanie Weber)
 
@@ -49,7 +51,7 @@ Excursion Day!
 
 11:00-12:20 Contributed Talks (Chair: Carola Wenk)
 
-12:20-13:45 LUNCH
+12:20-13:45 LUNCH (Rendezvous Dining Pavilion)
 
 13:45-14:45 Invited Talk 8 -- Frank Staals (Chair: Ziga Virk)
 
@@ -67,5 +69,5 @@ Excursion Day!
 
 11:00-12:20 Contributed Talks (Chair: Atish Mitra) 
 
-12:20-13:45 LUNCH
+12:20-13:45 LUNCH (Rendezvous Dining Pavilion)
 
