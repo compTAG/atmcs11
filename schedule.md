@@ -7,6 +7,8 @@ abstracts booklet](https://comptag.github.io/atmcs11/assets/schedule.pdf).
 
 ## Monday
 
+08:00-08:30 Registration
+
 08:30-09:30 Invited Talk 1 -- Yusu Wang (Chair: Vanessa Robins)
 
 09:30-10:30 Invited Talk 2 -- Melanie Weber (Chair: Vanessa Robins)
