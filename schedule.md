@@ -4,7 +4,7 @@ All sessions, unless otherwise noted, are in Inspiration Hall in [Norm Asbjornso
 
 For the full schedule, see the [schedule and
 abstracts
-booklet](https://tex.stackexchange.com/questions/71646/adjusting-position-of-page-numbers-in-bound-in-pdf-pages).
+booklet](https://montanaedu-my.sharepoint.com/:b:/g/personal/n12v755_msu_montana_edu/Ecl4jolV1DNLsAFmBikopaYB4mHaYDtOTKKQrmhp91m2tw?e=RGm54u).
 
 ## Monday
 
