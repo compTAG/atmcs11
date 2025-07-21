@@ -61,6 +61,8 @@ Excursion Day!
 
 15:15-16:35 Contributed Talks (Chair: Erin Wolf Chambers)
 
+16:35-17:00 Business Meeting
+
 ## Friday
 
 08:30-09:30 Invited Talk 9 -- Carola Wenk (Chair: Rocio Gonzalez-Diaz)
