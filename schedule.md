@@ -4,7 +4,9 @@ All sessions, unless otherwise noted, are in Inspiration Hall in [Norm Asbjornso
 
 For the full schedule, see the [schedule and
 abstracts
-booklet](https://montanaedu-my.sharepoint.com/:b:/g/personal/n12v755_msu_montana_edu/Ecl4jolV1DNLsAFmBikopaYB4mHaYDtOTKKQrmhp91m2tw?e=RGm54u).
+booklet](https://montanaedu-my.sharepoint.com/:b:/g/personal/n12v755_msu_montana_edu/Ecl4jolV1DNLsAFmBikopaYB4mHaYDtOTKKQrmhp91m2tw?e=RGm54u)
+or the [schedule without extended abstracts (smaller
+file)](https://montanaedu-my.sharepoint.com/:b:/g/personal/n12v755_msu_montana_edu/ES_vC1X9fqZFj9NxY3W0LVYBPBtwdb4P7o5HP-KM-CAnlQ?e=bTQazP).
 
 ## Monday
 
