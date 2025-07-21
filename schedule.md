@@ -6,7 +6,7 @@ For the full schedule, see the [schedule and
 abstracts
 booklet](https://montanaedu-my.sharepoint.com/:b:/g/personal/n12v755_msu_montana_edu/Ecl4jolV1DNLsAFmBikopaYB4mHaYDtOTKKQrmhp91m2tw?e=RGm54u)
 or the [schedule without extended abstracts (smaller
-file)](https://montanaedu-my.sharepoint.com/:b:/g/personal/n12v755_msu_montana_edu/ES_vC1X9fqZFj9NxY3W0LVYBOSalMOKJC6x6f5Hzr7n4Lg?e=EgHbaL).
+file)](https://comptag.github.io/atmcs11/assets/schedule-small.pdf)
 
 ## Monday
 
