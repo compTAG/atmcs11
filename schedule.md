@@ -53,9 +53,9 @@ file)](https://comptag.github.io/atmcs11/assets/schedule-small.pdf)
             </td>
             <td>
                 <ul>
-                    <li>Halley Fritze</li>
                     <li>Adam Onus</li>
                     <li>Andrew M. Thomas</li>
+                    <li><s>Halley Fritze</s></li>
                 </ul>
             </td>
         </tr>
@@ -121,6 +121,7 @@ file)](https://comptag.github.io/atmcs11/assets/schedule-small.pdf)
                 <ul>
                     <li>Manuel Soriano Trigueros</li>
                     <li>Francisco Martinez Figueroa</li>
+                    <li><i style="font-style:italic">Halley Fritze</i></li>
                 </ul>
             </td>
         </tr>
