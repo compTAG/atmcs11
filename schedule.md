@@ -55,7 +55,7 @@ file)](https://comptag.github.io/atmcs11/assets/schedule-small.pdf)
                 <ul>
                     <li>Adam Onus</li>
                     <li>Andrew M. Thomas</li>
-                    <li><s>Halley Fritze</s></li>
+                    <li><s>Halley Fritze</s> (moved to Tuesday)</li>
                 </ul>
             </td>
         </tr>
@@ -137,7 +137,6 @@ file)](https://comptag.github.io/atmcs11/assets/schedule-small.pdf)
         <tr>
             <td> 15:00-17:00 </td>
             <td colspan=2> Poster Reception </td>
-            <td></td>
         </tr>
     </tbody>
 </table>
