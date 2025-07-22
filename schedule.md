@@ -192,9 +192,9 @@ Excursion Day!
         </tr>
         <tr>
             <td> 13:45-14:45 </td>
-            <td> Invited Talk 8 </td>
-            <td> Frank Staals <br>
+            <td> Invited Talk 8 <br>
             (Chair: Ziga Virk) </td>
+            <td> Frank Staals</td>
         </tr>
         <tr>
             <td> 14:45-15:15 </td>
