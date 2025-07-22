@@ -166,7 +166,7 @@ Excursion Day!
     </thead>
     <tbody>
         <tr>
-            <td> 09:30-10:30 </td>
+            <td> 0<b>9</b>:30-10:30 </td>
             <td> Invited Talk 7 <br>
             (Chair: Frank Staals) </td>
             <td> Steven Bleiler </td>
