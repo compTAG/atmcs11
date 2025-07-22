@@ -204,7 +204,13 @@ Excursion Day!
             <td> 15:15-16:35 </td>
             <td> Contributed Talks <br>
             (Chair: Erin Wolf Chambers) </td>
-            <td></td>
+            <td>
+                <ul>
+                    <li>Teresa Heiss</li>
+                    <li>Barbara Giunti</li>
+                    <li>Zoe Cooperband</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td> 16:35-17:00 </td>
