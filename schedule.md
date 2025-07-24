@@ -55,7 +55,7 @@ file)](https://comptag.github.io/atmcs11/assets/schedule-small.pdf)
                 <ul>
                     <li>Adam Onus</li>
                     <li>Andrew M. Thomas</li>
-                    <li><s>Halley Fritze</s> (moved to Tuesday)</li>
+                    <!-- <li><s>Halley Fritze</s> (moved to Tuesday)</li> -->
                 </ul>
             </td>
         </tr>
@@ -121,7 +121,7 @@ file)](https://comptag.github.io/atmcs11/assets/schedule-small.pdf)
                 <ul>
                     <li>Manuel Soriano Trigueros</li>
                     <li>Francisco Martinez Figueroa</li>
-                    <li><i style="font-style:italic">Halley Fritze</i></li>
+                    <li>Halley Fritze</li>
                 </ul>
             </td>
         </tr>
@@ -166,7 +166,7 @@ Excursion Day!
     </thead>
     <tbody>
         <tr>
-            <td> 0<b>9</b>:30-10:30 </td>
+            <td> 09:30-10:30 </td>
             <td> Invited Talk 7 <br>
             (Chair: Frank Staals) </td>
             <td> Steven Bleiler </td>
@@ -181,7 +181,7 @@ Excursion Day!
             (Chair: Carola Wenk) </td>
             <td>
                 <ul>
-                    <li>Christopher Fillmore</li>
+                    <li>Teresa Heiss</li>
                     <li>Florian Russold</li>
                 </ul>
             </td>
@@ -206,8 +206,8 @@ Excursion Day!
             (Chair: Erin Wolf Chambers) </td>
             <td>
                 <ul>
-                    <li>Teresa Heiss</li>
                     <li>Barbara Giunti</li>
+                    <li>Christopher Fillmore</li>
                     <li>Zoe Cooperband</li>
                 </ul>
             </td>
