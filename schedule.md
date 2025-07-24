@@ -181,7 +181,7 @@ Excursion Day!
             (Chair: Carola Wenk) </td>
             <td>
                 <ul>
-                    <li>Teresa Heiss</li>
+                    <li>Teresa Heiss-Synak</li>
                     <li>Florian Russold</li>
                     <li>Jack Snoeyink</li>
                 </ul>
