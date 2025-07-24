@@ -187,7 +187,7 @@ Excursion Day!
             </td>
         </tr>
         <tr>
-            <td> Demo <br>
+            <td> Demo </td>
             <td>
                 <ul>
                     <li>Jack Snoeyink (Demo)</li>
