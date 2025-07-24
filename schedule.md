@@ -183,6 +183,7 @@ Excursion Day!
                 <ul>
                     <li>Teresa Heiss</li>
                     <li>Florian Russold</li>
+                    <li>Jack Snoeyink</li>
                 </ul>
             </td>
         </tr>
