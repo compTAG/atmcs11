@@ -176,14 +176,21 @@ Excursion Day!
             <td colspan=2> COFFEE BREAK </td>
         </tr>
         <tr>
-            <td> 11:00-12:20 </td>
+            <td rowspan="2"> 11:00-12:20 </td>
             <td> Contributed Talks <br>
             (Chair: Carola Wenk) </td>
             <td>
                 <ul>
                     <li>Teresa Heiss-Synak</li>
                     <li>Florian Russold</li>
-                    <li>Jack Snoeyink</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td> Demo <br>
+            <td>
+                <ul>
+                    <li>Jack Snoeyink (Demo)</li>
                 </ul>
             </td>
         </tr>
